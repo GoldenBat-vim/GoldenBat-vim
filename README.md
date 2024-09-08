@@ -1,4 +1,13 @@
 # vim
+例: Visual mode で選択した部分を折り畳む  
+1. Visual mode (Shift-v) で領域選択  
+2. zf  
+例: カーソル位置から、指定した文字列が見つかるところまでを折り畳む
+```
+zf /string
+```
+一度 zf コマンドによって折りたたんだ領域は、zo で展開、zc で折りたたみを行えるようになります。
+
 折りたたみと展開（カーソル位置の要素に対して）
 - zc  -- 折りたたみ (Close one fold under the cursor)
 - zo  -- 展開（一段階）(Open one fold under the cursor)
