@@ -1,7 +1,9 @@
 # vim
 例: Visual mode で選択した部分を折り畳む  
+```
 1. Visual mode (Shift-v) で領域選択  
-2. zf  
+2. zf
+```  
 例: カーソル位置から、指定した文字列が見つかるところまでを折り畳む
 ```
 zf /string
