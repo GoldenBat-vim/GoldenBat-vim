@@ -1,4 +1,14 @@
 # vim
+折りたたみを保存
+```
+:mkview
+```
+保存した折りたたみを読み込み
+```
+:loadview
+```
+
+
 例: Visual mode で選択した部分を折り畳む  
 ```
 1. Visual mode (Shift-v) で領域選択  
