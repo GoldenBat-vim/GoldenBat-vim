@@ -1,4 +1,9 @@
 # vim
+ウィンドウの切り替え
+```
+Ctrl + w + w
+```
+
 置換
 ```
 :%s/foo/bar/gc
@@ -12,6 +17,7 @@
 ```
 :loadview
 ```
+
 
 
 例: Visual mode で選択した部分を折り畳む  
