@@ -3,6 +3,14 @@
 ```
 Ctrl + w + w
 ```
+取り消しの取り消し
+```
+Ctrl + r
+```
+Undolistの表示(プラグイン)
+```
+:UndotreeToggle
+```
 
 置換
 ```
